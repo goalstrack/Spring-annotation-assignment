@@ -1,0 +1,16 @@
+------------New AOP Approach --------- 
+
+
+------Product is Booked------
+ 
+
+--------- No Argument call ---------
+
+
+------Make Payment for Product------
+ 
+
+--------- make payment with argument ---------
+
+
+------Make Payment for Product of Type = Paytm
